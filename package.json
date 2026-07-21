@@ -83,7 +83,7 @@
   "devDependencies": {
     "@types/mocha": "^10.0.10",
     "@types/node": "24.x",
-    "@types/sinon": "^21.0.0",
+    "@types/sinon": "^22.0.0",
     "@types/vscode": "^1.100.0",
     "@typescript-eslint/eslint-plugin": "^8.31.1",
     "@typescript-eslint/parser": "^8.31.1",
@@ -92,7 +92,7 @@
     "esbuild": "^0.27.0",
     "eslint": "^10.0.0",
     "npm-run-all2": "^8.0.0",
-    "sinon": "^21.0.0",
+    "sinon": "^22.0.0",
     "typescript": "^5.8.3"
   }
 }
